@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "ditirambo",
-    "repositoryName": "ditirambo.es",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"ditirambo","repositoryName":"ditirambo.es","branch":"gh-pages"},"site":{"title":"Coral Ditirambo de Murcia","url":"https://ditirambo.github.io/ditirambo.es"},"socialnetwork":{"email":"ditirambo@ditirambo.es","twitter":"https://twitter.com/CoralDitirambo","facebook":"https://www.facebook.com/coralditirambo/"},"theme":{"name":"Casper","url":"//ditirambo.github.io/ditirambo.es/themes/Casper"}}
