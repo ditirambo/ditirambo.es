@@ -1,3 +1,25 @@
 = Post de prueba
 
-Este es un post de prueba
+Este es un post de prueba. En este post se muestran las opciones que provee HubPress, el software con el que se diseña esta web con formato blog.
+
+== Escribir texto
+
+El editor permite escribir texto en un editor tipo bloc de notas. Esto es un poco tostón porque seguro que te gustaría disponer de botones para las negritas, enlaces, imágenes y cosas así, y en vez de eso hay que hacerlo con símbolos, pero es lo mejor que he encontrado y la verdad es que se hace muy fácil de gestionar una vez uno se acostumbra.
+
+A las malas, siempre puedes hacer versiones con todo eso simplificado y dejar que te las edite yo posteriormente, y que eso te sirva de ejemplo para casos posteriores. Tienes un ejemplo del lenguaje que se utiliza en link:http://asciidoctor.org/docs/asciidoc-writers-guide/#writing-in-asciidoc[este enlace].
+
+TIP: Mira, puedo ponerte consejos con iconos chulos también.
+
+== Subir imágenes
+
+Si editar textos es un poco tostón, subir imágenes ni te cuento. Como este sistema está basado en cosas de informáticos que normalmente hacemos todo por línea de comandos (la pantalla negra con letras), pues resulta que va a haber que buscar un método más fácil para subir las imágenes. Tendré que pensarlo un poco, pero hay algunas salidas "factibles".
+
+== Enlazar vídeos
+
+Esto es bastante más fácil, solo sabiendo el código que hay que poner. Por ejemplo, si nos apetece promocionar el vídeo aquel que hizo Tati, solo tenemos que seguir estos pasos:
+
+. Busca el vídeo en YouTube, con lo que tenemos el enlace: https://www.youtube.com/watch?v=XJXS37sku7E
+. Coge el código del vídeo, que es la parte que va a continuación de `v=`; en este caso, el código es lo señalado en negrita: https://www.youtube.com/watch?v=**XJXS37sku7E**
+. Introduzco el siguiente código: `video::<codigo>[youtube]`. En este caso, sería `video::XJXS37sku7E[youtube]`. El resultado sería el siguiente:
+
+video::XJXS37sku7E[youtube]
