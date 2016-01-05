@@ -8,8 +8,6 @@ El editor permite escribir texto en un editor tipo bloc de notas. Esto es un poc
 
 A las malas, siempre puedes hacer versiones con todo eso simplificado y dejar que te las edite yo posteriormente, y que eso te sirva de ejemplo para casos posteriores. Tienes un ejemplo del lenguaje que se utiliza en link:http://asciidoctor.org/docs/asciidoc-writers-guide/#writing-in-asciidoc[este enlace].
 
-TIP: Mira, puedo ponerte consejos con iconos chulos también.
-
 == Subir imágenes
 
 Si editar textos es un poco tostón, subir imágenes ni te cuento. Como este sistema está basado en cosas de informáticos que normalmente hacemos todo por línea de comandos (la pantalla negra con letras), pues resulta que va a haber que buscar un método más fácil para subir las imágenes. Tendré que pensarlo un poco, pero hay algunas salidas "factibles".
@@ -23,3 +21,7 @@ Esto es bastante más fácil, solo sabiendo el código que hay que poner. Por ej
 . Introduzco el siguiente código: `video::<codigo>[youtube]`. En este caso, sería `video::XJXS37sku7E[youtube]`. El resultado sería el siguiente:
 
 video::XJXS37sku7E[youtube]
+
+== Cambiar el estilo de la web
+
+El software viene con cinco estilos predefinidos. El que estás viendo es uno de ellos. Con algo de tiempo se puede personalizar y hacer algo propio con el formato que queramos, sin que ello afecte al contenido de la web. El problema es que eso lo tenemos que hacer a pelo en CSS, así que es tiempo que tendremos que dedicar gente que dominemos esto a partir de las indicaciones sobre cómo deba de ser la web.
