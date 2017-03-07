@@ -6,7 +6,7 @@ Este es un post de prueba. En este post se muestran las opciones que provee HubP
 
 El editor permite escribir texto en un editor tipo bloc de notas. Esto es un poco tostón porque seguro que te gustaría disponer de botones para las negritas, enlaces, imágenes y cosas así, y en vez de eso hay que hacerlo con símbolos, pero es lo mejor que he encontrado y la verdad es que se hace muy fácil de gestionar una vez uno se acostumbra.
 
-A las malas, siempre puedes hacer versiones con todo eso simplificado y dejar que te las edite yo posteriormente, y que eso te sirva de ejemplo para casos posteriores. Tienes un ejemplo del lenguaje que se utiliza en link:http://asciidoctor.org/docs/asciidoc-writers-guide/#writing-in-asciidoc[este enlace].
+A las malas, siempre puedes hacer versiones con todo eso simplificado y dejar que te las edite yo posteriormente, y que eso te sirva de ejemplo para casos posteriores. Tienes un ejemplo del lenguaje que se utiliza en link: http://asciidoctor.org/docs/asciidoc-writers-guide/#writing-in-asciidoc[este enlace].
 
 == Subir imágenes
 
