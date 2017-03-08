@@ -1,13 +1,20 @@
 = Venta de entradas por PayPal
 
-:hp-tags: Ditirambo, GGLAM, MDIPAYA, Manual de instrucciones para amar y asesinar, musicales, entradas, venta
+:hp-tags: Ditirambo, pago, entradas, venta, PayPal
 
-¡Hola a todos!
+== ¿Qué es PayPal?
 
-Después de mucho tiempo de inactividad en la web (no así https://www.facebook.com/coralditirambo/[en nuestra página de Facebook] o https://www.instagram.com/coralditirambo/[en nuestro perfil en Instagram]), os anunciamos que contamos con una cuenta de PayPal a través de la cual podréis pagar las entradas que pongamos a la venta. PayPal es un intermediario de pago muy conocido por su seguridad a la hora de realizar pagos por Internet, por lo que ya no tenéis excusa para no comprarnos vuestras entradas desde casa. :)
+https://www.paypal.com[Paypal] es un sistema de pagos a través de Internet que permite a sus usuarios realizar transferencias y pagos sin necesidad de compartir datos bancarios. Alcanzó gran éxito como medio de pago seguro en https://www.ebay.com[eBay] y, desde hace años, muchas personas y compañías aceptan pagos a través de este medio.
 
-Para pagar por PayPal es necesario tener una cuenta en el servicio y dar de alta una cuenta corriente o tarjeta bancaria, operaciones muy sencillas de hacer. Una vez tengáis vuestra cuenta, solo tendréis que https://www.paypal.com/es/webapps/mpp/send-money-online[entrar a este enlace] y poner como correo electrónico destinatario ditirambo@ditirambo.es.
+== ¿Qué necesito para pagar por PayPal?
 
-Si tenéis cualquier duda sobre cómo hacer estos pagos, avisadnos por la página de Facebook y trataremos de solucionarlos y resolverlos lo mejor posible, así como de dejarlo mejor explicado lo que no se entienda bien.
+Para pagar por PayPal solo necesitas hacerte una cuenta en el servicio en la que introducir una cuenta bancaria o una tarjeta como medio de pago (y cobro, en su caso). El proceso de alta es sencillo y la verificación segura de los medio de pago se hace mediante pequeños ingresos (céntimos) que te envía PayPal para que puedas confirmar que realmente tienes acceso al sistema de pago que estás añadiendo.
 
-¡Nos vemos en los escenarios!
+Una vez tengas añadido al menos un medio de pago, tendrás todo listo para poder hacernos pagos a través de PayPal.
+
+== ¿Cómo os envío dinero?
+
+* Accede a https://www.paypal.com/es/webapps/mpp/send-money-online[este enlace].
+* Introduce como correo electrónico del destinatario del pago: ditirambo@ditirambo.es.
+* Incluye la cantidad que deseas enviar.
+* Sigue el resto de pasos que te indica PayPal para confirmar y ¡ya lo tienes!
