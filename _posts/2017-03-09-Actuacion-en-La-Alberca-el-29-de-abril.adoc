@@ -1,10 +1,3 @@
-// = Your Blog title
-// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-// :hp-image: /covers/cover.png
-// :published_at: 2019-01-31
-// :hp-tags: HubPress, Blog, Open_Source,
-// :hp-alt-title: My English Title
-
 = Actuación en La Alberca el 29 de abril
 
 :hp-tags: Ditirambo, Manual de instrucciones para amar y asesinar, A gentleman's guide to love and murder, La Alberca, Murcia, actuación, Auditorio Municipal de La Alberca
@@ -13,10 +6,12 @@ La Coral Ditirambo actuará en el Auditorio Municipal de La Alberca el sábado 2
 
 Para la venta anticipada de entradas, hemos habilitado dos sistemas con la intención de que te sea lo más sencillo posible tener tus asientos reservados:
 
-* Pago online mediante PayPal (http://www.ditirambo.es/2017/03/07/Venta-de-entradas-por-Pay-Pal.html[lee aquí cómo realizar pagos a través de PayPal]), concertando la asignación de entradas con nuestra compañera Laura, que te atenderá en el teléfono 626458086 mediante llamada o mensajes por WhatsApp. Podrás recoger tus entradas el mismo día de la actuación 30 minutos antes de la misma.
+* Pago online mediante PayPal (http://www.ditirambo.es/2017/03/07/Venta-de-entradas-por-Pay-Pal.html[lee aquí cómo realizar pagos a través de PayPal]). Podrás recoger tus entradas el mismo día de la actuación 30 minutos antes de la misma.
 
 * Pago presencial en horario de viernes de 18:00 a 20:00 en el Auditorio de La Alberca. Podrás retirar las entradas en el mismo momento del pago.
 
-El precio de las entradas será de __ €, tanto en venta anticipada como en taquilla.
+El precio de las entradas será de 5 €, tanto en venta anticipada como en taquilla.
 
-¡Os esperamos!
+Para consultas y dudas, puedes contactar con nosotros mediante llamada telefónica o mensajes por WhatsApp al número de teléfono siguiente: 626458086.
+
+¡Te esperamos!
