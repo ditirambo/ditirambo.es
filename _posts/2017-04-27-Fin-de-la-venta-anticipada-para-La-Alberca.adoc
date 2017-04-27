@@ -1,0 +1,16 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+:hp-tags: Ditirambo, Manual de instrucciones para amar y asesinar, A gentleman's guide to love and murder, MDIPAYA, GGLAM, La Alberca, Auditorio Municipal de La Alberca, Murcia, Auditorio Víctor Villegas, estreno, Región de Murcia
+
+= ¡Fin de la venta anticipada para La Alberca!
+
+Estamos muy contentos de poder anunciar que esta tarde tenemos que cerrar la venta anticipada de entradas para http://www.ditirambo.es/2017/03/09/Actuacion-en-La-Alberca-el-29-de-abril.html[la actuación del sábado 29 de abril en La Alberca] ¡porque están casi todas vendidas! Nos encanta estar teniendo esta gran acogida para nuestro estreno en la Región de Murcia y esperamos poder transmitir esta alegría e ilusión dentro de dos de días sobre el escenario.
+
+En caso de que llegues tarde a las últimas entradas de esta actuación, te informamos de que ¡aún tendrás oportunidad de vernos en Murcia antes de que llegue el verano! Será el 28 de mayo en el Auditorio Víctor Villegas de Murcia, y pronto publicaremos toda la información de esa fecha para que no te la puedas perder, tanto si será tu primera vez viendo este _Manual de instrucciones para amar y asesinar_ como si decides repetir y disfrutar de los distintos repartos.
+
+¡Nos vemos en los escenarios!
