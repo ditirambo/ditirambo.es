@@ -1,6 +1,6 @@
 = Shakespeare, be my love
 
-image::smbl-cartel.jpeg[]
+image::/images/smbl-cartel.jpeg[]
 
 Nuestro nuevo proyecto ya cosechó sus primeros éxitos en su estreno el pasado 13 de abril en el Auditorio Víctor Villegas de Murcia, ¡y seguimos con él! Nuestra próxima actuación será el 26 de mayo en el Auditorio de La Alberca (Murcia). Os podéis mantener al tanto de todo siguiendo la página @CoralDitirambo en Facebook, Instagram y Twitter.
 
