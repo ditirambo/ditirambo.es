@@ -9,7 +9,7 @@
     "title": "Coral Ditirambo de Murcia",
     "description": "Coral especializada en teatro musical",
     "logo": "http://www.ditirambo.es/images/logo_ditirambo.jpg",
-    "cover": "http://www.ditirambo.es/images/sbml-cartel.jpg",
+    "cover": "http://www.ditirambo.es/images/sbml-cartel.jpeg",
     "url": "http://www.ditirambo.es",
     "delay": "",
     "postsPerPage": "",
@@ -37,5 +37,15 @@
     "hubpress": "http://www.ditirambo.es",
     "theme": "//www.ditirambo.es/themes/ditirambo-uno",
     "images": "http://www.ditirambo.es/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
