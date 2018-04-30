@@ -1,0 +1,16 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+= Shakespeare, be my love en el Auditorio de La Alberca, Murcia
+
+El próximo sábado 26 de mayo a las 20:00 horas presentaremos nuestro concierto escenificado, _Shakespeare, be my love_, en el Auditorio Municipal de La Alberca (Murcia).
+
+¡Las entradas ya están a la venta! Para conseguirlas, poneos en contacto con nosotros a través del correo ditirambo@ditirambo.es y os informaremos de todo. ¡Daos prisa en reservarlas porque ya están volando!
+
+Aquí os mostramos un breve reportaje de nuestro espectáculo que La 7 TV Región de Murcia hizo en directo horas antes de nuestro estreno el pasado 13 de abril en el Auditorio Víctor Villegas de Murcia.
+
+video::SmyduhJHVtY[youtube]
