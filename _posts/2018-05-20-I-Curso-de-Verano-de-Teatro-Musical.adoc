@@ -15,7 +15,7 @@ Para inscribirte en el curso haz click https://goo.gl/forms/UUWhU5AeXSVVHFgr2[es
 
 A continuación, te dejamos más detalles sobre el curso.
 
-image: :
+image::/images/descripcion-curso.jpg[]
 
 == ¿EN QUÉ CONSISTE?
 Se trata de un proceso creativo en el que se integra todo lo que involucra al trabajo de un actor en un espectáculo de teatro musical: _la interpretación, el canto y la danza._ Trabajando estas ramas conseguirás divertirte, desinhibirte y aprender los muchos aspectos que intervienen en el teatro musical.
@@ -81,4 +81,4 @@ Tras rellenarlo, deberás formalizar el pago como se te indique.
 *Jose Ángel Silva* _, licenciado en canto y piano por el Conservatorio Superior de Música de Murcia y graduado en Interpretación en el teatro musical por la Escuela Superior de Arte Dramático de Murcia. Profesor de técnica del canto y repertorista en Musicalberk. Dirige la Coral Ditirambo de Murcia, especializada en teatro musical coral. Ha trabajado el canto con profesores como Aurora Serna, Carlos Aransay, Robert Sussuma, y la técnica Estill Voice Model con Helen Rowson y Paul Harrington. Formó parte del World Youth Choir realizando giras en China (Olimpiadas de Beijing 2008), Bélgica, Alemania, España o Suecia, y cantando en la ceremonia del Premio Nobel de la Paz de 2011 en Oslo. Ha dirigido musicales como GODSPELL, HIJOS DEL EDÉN o MANUAL DE INSTRUCCIONES PARA AMAR Y ASESINAR (premiado con la mejor dirección en diversos festivales), y llevado la dirección musical de otros como PIPPIN, THE WILD PARTY o RAGTIME. Ha compuesto la letra y música de CADA CAMINO, un musical con actores con y sin discapacidad, así como del micromusical EYA, junto a Jon Mitó y Silvia Montesinos. Junto a Montesinos ha escrito la comedia musical AL COMPÁS DE 3 POR 2. Ha impartido diversos cursos de técnica del canto para la Universidad de Murcia y de la "Escena coral en el teatro musical" tanto dentro como fuera de la Región de Murcia._
 
 
-image: :
+image::/images/cartel-curso.jpg[]
