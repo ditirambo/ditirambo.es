@@ -1,0 +1,81 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+= I Curso de Verano de Teatro Musical
+
+:hp-tags: Coralditirambo, teatro musical, curso de verano, musicales,
+
+Desde la Coral Ditirambo de Murcia queremos contribuir a la difusión del teatro musical en la escena cultural de la Región. Para ello, hemos organizado este curso con el que podrás descubrir la magia del teatro musical por primera vez o desarrollar tus conocimientos ya aprendidos de la mano de profesionales de la materia.
+
+Para inscribirte en el curso haz click https://goo.gl/forms/UUWhU5AeXSVVHFgr2[este enlace]
+
+A continuación, te dejamos más detalles sobre el curso.
+
+[IMAGEN CARTEL]
+
+== ¿EN QUÉ CONSISTE?
+Se trata de un proceso creativo en el que se integra todo lo que involucra al trabajo de un actor en un espectáculo de teatro musical: _la interpretación, el canto y la danza._ Trabajando estas ramas conseguirás divertirte, desinhibirte y aprender los muchos aspectos que intervienen en el teatro musical.
+
+Especialmente desarrollarás el trabajo coral en grupo y tu técnica individual, activando todas tus cualidades y aptitudes a la hora de subir a un escenario e interpretar un personaje. También conocerás a fondo el teatro musical y su repertorio, dándole la importancia que tiene y sacando de él valores fundamentales de la sociedad.
+
+== ¿QUÉ SE TRABAJARÁ CONCRETAMENTE?
+-          El calentamiento corporal y vocal.
+-          Técnica vocal aplicada.
+-          Creación de personajes.
+-          Análisis interpretativo y musical.
+-          Interpretación actoral y musical.
+-          Técnicas de movimiento y danza.
+-          Reproducción de coreografías.
+-          Trabajo de la escena coral.
+-          Trabajo de solos y dúos (grupo avanzado).
+
+== ¿A QUIÉN VA DIRIGIDO?
+Este curso está dirigido a todas las personas de 16  años en adelante que ya han tenido un contacto con el teatro musical y a aquéllas que quieren tener su primer contacto. Si eres uno de ellos, quieres aprender, divertirse y sacar lo mejor de ti mismo en este ámbito artístico y/o desarrollarlo, éste es tu curso.
+
+Según tu nivel ofrecemos dos categorías:
+
+*- Grupo de iniciación al teatro musical:* dirigido a aquéllos que os enfrentáis por primera vez o tenéis menos experiencia. Se fortalecerá el trabajo en grupo. El número máximo de plazas es de 20.
+
+*- Grupo avanzado de teatro musical:* dirigido a los que ya tenéis experiencia. Además del trabajo en grupo, se desarrollará un trabajo personalizado individual. El número de plazas se reduce a 10 personas seleccionadas por su curriculum.
+
+== ¿CÓMO SE DESARROLLARÁ EL CURSO?
+El trabajo se centrará en el desarrollo y aprendizaje actoral a través de la técnica y de la representación de escenas de musicales reconocidos y consagrados dentro del repertorio del teatro musical americano. Prepararemos las escenas simultaneando el canto, la interpretación y la danza/movimiento escénico, siguiendo las mismas pautas que en un espectáculo profesional.
+
+Al finalizar el curso haremos una muestra pública abierta a todo el mundo.
+
+Antes del comienzo del curso, te enviaremos el material a trabajar para que lo conozcas con anterioridad.
+
+== ¿¿¿CUÁNDO Y DÓNDE???
+El curso tendrá lugar del 28 al 29 de junio y del 2 al 5 de julio de 2018 en el Auditorio de La Alberca.
+
+Los horarios serán los siguientes:
+
+_Grupo de iniciación: todas las mañanas de 10:00 a 14:00._
+_Grupo avanzado: de 10:00 a 14:00 y de 16:00 a 19:00._
+
+== ¿CUÁL ES EL PRECIO?
+Si te inscribes antes del 8 de junio los precios de los que puedes aprovecharte son:
+
+*Grupo de iniciación: 120 €*
+*Grupo avanzado: 160 €*
+
+_*Descuento del 20% para los componentes actuales de la Coral Ditirambo._
+_*Descuento del 10% para los alumnos de la Escuela Superior de Arte Dramático de Murcia._
+
+== ¿CÓMO ME INSCRIBO?
+Sólo tienes que seguir el https://goo.gl/forms/UUWhU5AeXSVVHFgr2[siguiente enlace] y rellenar el formulario que te aparecerá.
+
+Tras rellenarlo, deberás formalizar el pago como se te indique.
+
+== ¿QUIÉN IMPARTE EL TALLER?
+
+*Jon Mitó*_, Licenciado en Interpretación en el Musical por la Escuela Superior de Arte Dramático de Murcia y Titulado en Teatro Musical por la American Musical Theater Academy de Londres. Profesor de teatro y teatro en inglés en ArenaAprende y de danza jazz en Groetsch Danza. Ha estudiado canto con Gema Corredera, Jonathan Eio y José Masegosa, danza con Fernando Lázaro y Dolly Henry. Ha trabajado como actor en SPIRIT OF BROADWAY, CRUCE DE VÍAS, MORTADELO Y FILEMÓN, ELEGIES FOR ANGELS PUNKS AND RAGING QUEENS, LA RATITA PRESUMIDA. Ha creado y dirigido los espectáculos SHOWTIME, THE KIDS BAND, THE MÜSHICAL, I WANT TO BREAK FREE. Junto a Jose Ángel Silva y Silvia Montesinos crea EYA, UN MICROMUSICAL. Es el coreógrafo de EL FLAUTISTA DE HAMELIN y ODISEA 80. Como improvisador es cover de la compañía IMPROVIVENCIA  y crea junto a Karmen Heredia VARIETTÉS SL. Compagina su actividad como profesional del escenario con la docencia impartiendo seminarios de interpretación teatral y danza Broadway jazz._
+
+*Jose Ángel Silva*_, licenciado en canto y piano por el Conservatorio Superior de Música de Murcia y graduado en Interpretación en el teatro musical por la Escuela Superior de Arte Dramático de Murcia. Profesor de técnica del canto y repertorista en Musicalberk. Dirige la Coral Ditirambo de Murcia, especializada en teatro musical coral. Ha trabajado el canto con profesores como Aurora Serna, Carlos Aransay, Robert Sussuma, y la técnica Estill Voice Model con Helen Rowson y Paul Harrington. Formó parte del World Youth Choir realizando giras en China (Olimpiadas de Beijing 2008), Bélgica, Alemania, España o Suecia, y cantando en la ceremonia del Premio Nobel de la Paz de 2011 en Oslo. Ha dirigido musicales como GODSPELL, HIJOS DEL EDÉN o MANUAL DE INSTRUCCIONES PARA AMAR Y ASESINAR (premiado con la mejor dirección en diversos festivales), y llevado la dirección musical de otros como PIPPIN, THE WILD PARTY o RAGTIME. Ha compuesto la letra y música de CADA CAMINO, un musical con actores con y sin discapacidad, así como del micromusical EYA, junto a Jon Mitó y Silvia Montesinos. Junto a Montesinos ha escrito la comedia musical AL COMPÁS DE 3 POR 2. Ha impartido diversos cursos de técnica del canto para la Universidad de Murcia y de la "Escena coral en el teatro musical" tanto dentro como fuera de la Región de Murcia._
+
+
+[IMAGEN DESCRIPCIÓN]
