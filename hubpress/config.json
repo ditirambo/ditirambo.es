@@ -14,7 +14,8 @@
     "delay": "",
     "postsPerPage": "",
     "googleAnalytics": "",
-    "disqus": ""
+    "disqus": "",
+    "blogPath": ""
   },
   "socialnetwork": {
     "email": "ditirambo@ditirambo.es",
@@ -26,10 +27,12 @@
     "pinterest": "",
     "flickr": "",
     "linkedin": "",
-    "stackoverflow": ""
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
   },
   "theme": {
-    "name": "ditirambo-uno",
+    "name": "uno",
     "url": "//www.ditirambo.es/themes/ditirambo-uno"
   },
   "urls": {
@@ -51,5 +54,6 @@
     "beforeCreate": [
       null
     ]
-  }
+  },
+  "navigation": []
 }
