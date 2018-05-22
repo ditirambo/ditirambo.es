@@ -32,13 +32,13 @@
     "opencollective": ""
   },
   "theme": {
-    "name": "ichi",
+    "name": "uno",
     "url": "//www.ditirambo.es/themes/ditirambo-uno"
   },
   "urls": {
     "site": "http://www.ditirambo.es",
     "hubpress": "http://www.ditirambo.es",
-    "theme": "//www.ditirambo.es/themes/uno",
+    "theme": "//www.ditirambo.es/themes/ichi",
     "images": "http://www.ditirambo.es/images"
   },
   "initialisationConfigComponent": {
