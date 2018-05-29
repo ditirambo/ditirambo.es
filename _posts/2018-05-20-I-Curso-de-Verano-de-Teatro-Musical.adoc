@@ -1,6 +1,13 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
 = I Curso de Verano de Teatro Musical
 
-:hp-tags: Coralditirambo, teatro musical, curso de verano, musicales
+:hp-tags: Coralditirambo, teatro musical, curso de verano, musicales,
 
 Desde la Coral Ditirambo de Murcia queremos contribuir a la difusión del teatro musical en la escena cultural de la Región. Para ello, hemos organizado este curso con el que podrás descubrir la magia del teatro musical por primera vez o desarrollar tus conocimientos ya aprendidos de la mano de profesionales de la materia.
 
@@ -10,10 +17,12 @@ A continuación, te dejamos más detalles sobre el curso.
 
 image::/images/cartel-curso.jpg[]
 
+
 == ¿EN QUÉ CONSISTE?
 Se trata de un proceso creativo en el que se integra todo lo que involucra al trabajo de un actor en un espectáculo de teatro musical: _la interpretación, el canto y la danza._ Trabajando estas ramas conseguirás divertirte, desinhibirte y aprender los muchos aspectos que intervienen en el teatro musical.
 
 Especialmente desarrollarás el trabajo coral en grupo y tu técnica individual, activando todas tus cualidades y aptitudes a la hora de subir a un escenario e interpretar un personaje. También conocerás a fondo el teatro musical y su repertorio, dándole la importancia que tiene y sacando de él valores fundamentales de la sociedad.
+
 
 == ¿QUÉ SE TRABAJARÁ CONCRETAMENTE?
 -          El calentamiento corporal y vocal.
@@ -26,6 +35,7 @@ Especialmente desarrollarás el trabajo coral en grupo y tu técnica individual,
 -          Trabajo de la escena coral.
 -          Trabajo de solos y dúos (grupo avanzado).
 
+
 == ¿A QUIÉN VA DIRIGIDO?
 Este curso está dirigido a todas las personas de 16  años en adelante que ya han tenido un contacto con el teatro musical y a aquéllas que quieren tener su primer contacto. Si eres uno de ellos, quieres aprender, divertirse y sacar lo mejor de ti mismo en este ámbito artístico y/o desarrollarlo, éste es tu curso.
 
@@ -35,6 +45,7 @@ Según tu nivel ofrecemos dos categorías:
 
 *- Grupo avanzado de teatro musical:* dirigido a los que ya tenéis experiencia. Además del trabajo en grupo, se desarrollará un trabajo personalizado individual. El número de plazas se reduce a 10 personas seleccionadas por su curriculum.
 
+
 == ¿CÓMO SE DESARROLLARÁ EL CURSO?
 El trabajo se centrará en el desarrollo y aprendizaje actoral a través de la técnica y de la representación de escenas de musicales reconocidos y consagrados dentro del repertorio del teatro musical americano. Prepararemos las escenas simultaneando el canto, la interpretación y la danza/movimiento escénico, siguiendo las mismas pautas que en un espectáculo profesional.
 
@@ -42,14 +53,15 @@ Al finalizar el curso haremos una muestra pública abierta a todo el mundo.
 
 Antes del comienzo del curso, te enviaremos el material a trabajar para que lo conozcas con anterioridad.
 
+
 == ¿¿¿CUÁNDO Y DÓNDE???
 El curso tendrá lugar del 28 al 29 de junio y del 2 al 5 de julio de 2018 en el Auditorio de La Alberca.
 
 Los horarios serán los siguientes:
 
-_Grupo de iniciación: todas las mañanas de 10:00 a 14:00._
-
+_Grupo de iniciación: todas las mañanas de 10:00 a 14:00._  
 _Grupo avanzado: de 10:00 a 14:00 y de 16:00 a 19:00._
+
 
 == ¿CUÁL ES EL PRECIO?
 Si te inscribes antes del 8 de junio los precios de los que puedes aprovecharte son:
@@ -58,14 +70,22 @@ Si te inscribes antes del 8 de junio los precios de los que puedes aprovecharte 
 
 *Grupo avanzado: 160 €*
 
-_*Descuento del 20% para los componentes actuales de la Coral Ditirambo._
-
+_*Descuento del 20% para los componentes actuales de la Coral Ditirambo._  
 _*Descuento del 10% para los alumnos de la Escuela Superior de Arte Dramático de Murcia._
+
 
 == ¿CÓMO ME INSCRIBO?
 Sólo tienes que seguir el https://goo.gl/forms/UUWhU5AeXSVVHFgr2[siguiente enlace] y rellenar el formulario que te aparecerá.
 
-Tras rellenarlo, deberás formalizar el pago como se te indique.
+Tras rellenarlo, deberás formalizar el pago como se te indique. Aquí te dejamos los datos de la
+cuenta bancaria para hacer el ingreso o transferencia:
+
+_Asoc. Juvenil Coral Ditirambo de Murcia_
+ES98 0073 0100 5504 9822 7118
+_(Openbank)_
+
+En el concepto del ingreso/transferencia deberás indicar *CURSO + (tu nombre y apellidos).*
+
 
 == ¿QUIÉN IMPARTE EL TALLER?
 
